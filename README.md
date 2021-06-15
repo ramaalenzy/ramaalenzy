@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rama
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning backend development
+- 🌱 I’m currently learning Full-stack development
 
 <!---
 ramaalenzy/ramaalenzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
